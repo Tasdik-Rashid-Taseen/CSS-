@@ -1,0 +1,278 @@
+html,
+body,
+.cover{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: none;
+}
+
+nav div ul li span.get{
+    background: #FFBE00;
+    color: white;
+    padding:10px ;
+}
+
+nav.navbar{
+    background: black;
+    border: none;
+    padding-bottom: 20px;
+}
+
+nav div.navbar-brand  a{
+    color: #4081A0;
+}
+
+nav li a:hover{
+    color: blue;
+}
+
+nav.navbar a{
+    color: #838383;
+    margin-top: 15px;
+}
+
+nav.navbar button{
+    background: #FFBE00;
+    border: none;
+    font-size: 15px;
+}
+nav.navbar button span{
+    
+}
+div.header1{
+    padding-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+.header1 ul{
+    float: right;
+    display: flex;
+    align-items: flex-end;
+    list-style-type: none;
+    margin-top: -35px;
+}
+
+
+.header1 ul li{
+    margin-right: 15px;
+}
+
+.image1{
+    background: url('img/img1.jpg') top left no-repeat;
+    background-size: cover;
+    display: table;
+    width: 100%;
+    padding: 20% 20%;
+    border: 5px double #DDDDDD;
+    margin-bottom: 40px;
+}
+
+.cover-text{
+    text-align: center;
+    color: white;
+    display: table-cell;
+    vertical-align: left;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.right p{
+    margin-left: 30px;
+    margin-top: -10px;
+    font-size: 9px;
+}
+
+.right div{
+    margin-top: -70px;
+}
+
+div .articles img{
+    display: flex;
+    justify-content: flex-start;
+}
+div .articles.des{
+    display: flex;
+    justify-content: flex-end;
+}
+
+button.btn{
+    margin-top: 15px;
+    margin-left: 90px;
+    margin-bottom: 80px;
+}
+
+section img{
+    margin: 80px 30px;
+}
+
+
+
+section.sponsor img{
+    height: 60px;
+    width: auto;
+
+}
+
+section.bottom{
+    float: left;
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+    font-size: 13px;
+    margin-bottom: 40px;
+}
+
+section.bottom h4{
+    margin-left: 25px;
+}
+
+section.bottom h3{
+    margin-left: 20px;
+}
+
+section.bottom  ul{
+    list-style-type: none;
+}
+
+section.bottom nav{
+    margin: 30px 40px;
+}
+
+section.bottom span.b1{
+    color: #FCA300;
+}
+section.bottom span.b1 a{
+    color: #FCA300;
+}
+
+section.bottom span.b2{
+    color: #26A6B2;
+}
+section.bottom span.b2 a{
+    color: #26A6B2;
+}
+
+section.bottom span.b3{
+    color: #544BBB;
+}
+section.bottom span.b3 a{
+    color: #544BBB;
+}
+
+section.bottom span.b4{
+    color: #EF5350;
+}
+section.bottom span.b4 a{
+    color: #EF5350;
+}
+section.bottom span.b5{
+    color: #A1005B;
+}
+section.bottom span.b5 a{
+    color: #A1005B;
+}
+section.bottom span.b6{
+    color: #3384D3;
+}
+section.bottom span.b6 a{
+    color: #3384D3;
+}
+
+
+aside{
+    margin-bottom: 30px;
+}
+
+aside ul li{
+    list-style-type: none;
+    color: #6C8BCD;
+   border-bottom: 1px #CCCCCC dotted;
+   margin-left: -40px;
+   margin-bottom: 3px;
+}
+
+aside.aside3 div+p{
+    margin-top: 5px;
+}
+
+
+aside.aside3 button{
+    position: relative;
+    left: -90px;
+    margin-top: 40px;
+    margin-bottom: -5px;
+}
+
+aside.aside6 button{
+    position: relative;
+    left: -130px;
+    margin-bottom: -10px;
+}
+
+aside.aside6 a{
+    color: white;
+}
+
+
+
+section.chat h4 a{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 0;
+    background-color: #3399CC;
+    width: 25%;
+    padding: 13px;
+    border: none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    z-index: 1;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+div.pic img{
+    margin-top: -5px;
+    margin-bottom: 40px;
+}  
+
+div.article{
+    margin-left: 15px;
+}
+
+div.articles1{
+    margin-top: 20px;
+}
+
+div.articles2{
+    margin-top: 85px;
+}
+
+div.articles3{  
+    margin-top: 60px;
+}
+
+div.nav-pills button a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
